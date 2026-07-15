@@ -1,1 +1,1 @@
-# osint-digital-footprint-analysis
+### An Open Source Intelligence (OSINT) project that analyzes an organization's publicly available digital footprint to identify potential security risks. Using ethical reconnaissance techniques and industry-standard tools, the project assesses infrastructure exposure, evaluates cybersecurity risks, and recommends appropriate mitigation strategies.
